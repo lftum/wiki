@@ -5,4 +5,4 @@
 ## What we're about
 
 ## Why does this site look so crappy?
-Cause we're focusing on research before we bother with site design
+Because we're focusing on research before we bother with site design
