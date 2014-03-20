@@ -4,5 +4,5 @@
 
 ## What we're about
 
-## Why does this site look so crappy?
+## Why is this site so bare bones right now?
 Because we're focusing on research before we bother with site design
