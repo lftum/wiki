@@ -5,7 +5,7 @@ onemonthtomakeit.com
 @LFTUM (“lift ‘em”)
 2.π.tv
 
-Scooters for getting around quickly(stolen from Ace, who used a skateboard for getting around quickly)
+Scooters for getting around quickly(for Ace, who used a skateboard for getting around quickly)
 
 Community organized/built Mardi Gras float “Krewe De Faiseurs” (Sorry, I do believe I butchered that, French is not my forte. - MH)
 pulled with (“fait’d” i.e.”made”) ebicycles <link>
