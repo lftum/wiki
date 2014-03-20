@@ -3,7 +3,7 @@ This is for things that we think of along the way that any number of us, the Co-
 onemonthtomakeit.com
 “#$hit that can be made in a month”
 @LFTUM (“lift ‘em”)
-2.π.tv
+http://2.π.tv
 
 Scooters for getting around quickly(for Ace, who used a skateboard for getting around quickly)
 
