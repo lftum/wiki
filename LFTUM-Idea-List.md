@@ -18,9 +18,10 @@ hedgefunds (CPHedge.dk) (.fund)
 && iam@monnom.me (.l3c)
 
 safeT.tv -- 15s training videås. (starting in swedish) for renewable energy industry
-<tool1>
-<tool2>
-<tool3>
+<tool1> one man’s ad
+<tool2> is another woman’s csr report
+<tool3> is another learner’s infotainment
+
 
 
 
