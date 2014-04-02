@@ -5,6 +5,12 @@
 
 Borrowed, with love, from http://makerspace.com
 
+## What's this about free tools from a local hardware shop?
+
+We should organize people to visit the hardware shop that takes these coupons (the one across the street from Jason's deli) once a day for 6 days for people to either help build their tool set or help build ours. Must emphasize the need for everyone to purchase something IF THEY CAN. If they can't afford to, that's ok, but if they can, they should.
+
+Coupons: http://www.fatwallet.com/mobile/forums/view_file_attachment.php?aid=375739
+
 ## What we're about
 
 ## Why is this site so bare bones right now?
