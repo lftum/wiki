@@ -2,8 +2,6 @@
 The purpose of the hackerspace is to be the catalyst to solving many issues that face the creative people of Lafayette.  Therefore, it is imperative that we properly define the culture that needs to be cultivated within the hackerspace. That's straightforward in my head, but may not be for others, so here's a logical breadown.
 ## Proof
 ##### If 
-    the issues facing the creative people of Lafayette require a cultural shift 
-##### and if
     cultural shifts in one culture (we'll call it 'A') 
     
     come about through another culture ('B') influencing culture A 
@@ -19,6 +17,7 @@ The purpose of the hackerspace is to be the catalyst to solving many issues that
     it must have a safe place where it is free to grow and strengthen 
     before clashing with other cultures.
 
+
 #### Conclusion: Since the issues facing the creative people of Lafayette require a cultural shift, Lafayette needs a safe place to grow the new culture. 
 
 #### Assertion: The safe place we are developing is a hackerspace.
@@ -31,12 +30,19 @@ The purpose of the hackerspace is to be the catalyst to solving many issues that
     we must identify and understand the problems 
     facing the creative people of Lafayette 
     before providing a solution.
-#### Conclusion: We must watch the CES video and seek the core problems behind the issues raised in it.
+#### Conclusion: We must watch the CES video and seek the core problems behind the issues raised in it. https://www.youtube.com/watch?v=J45z8aMwl-U
+
 ##### If
-    the hackerspace is meant to be a solution to those problems
+    Upon watching the CES video, it becomes apparent that
+        the issues facing the creative people of Lafayette require a cultural shift 
+##### and if
+    the hackerspace is meant to be a solution to those issues
 ##### then
-    we must identify how it addresses them.
+    we must identify how it addresses them, including the missing cultural components
+        that the space's culture will include.
+
 #### Conclusion: We must list the problems and specifically identify how the hackerspace addresses them.    
+
 ##### If
     the problems facing Lafayette's creative people requires a cultural shift
 ##### then
