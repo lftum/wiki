@@ -1,6 +1,6 @@
-# Why did I write this?
+## Why did I write this?
 The purpose of the hackerspace is to be the catalyst to solving many issues that face the creative people of Lafayette.  Therefore, it is imperative that we properly define the culture that needs to be cultivated within the hackerspace. That's straightforward in my head, but may not be for others, so here's a logical breadown.
-
+## Proof
 ##### If 
     the issues facing the creative people of Lafayette require a cultural shift 
 ##### and if
@@ -31,16 +31,16 @@ The purpose of the hackerspace is to be the catalyst to solving many issues that
     we must identify and understand the problems 
     facing the creative people of Lafayette 
     before providing a solution.
-
+#### Conclusion: We must watch the CES video and seek the core problems behind the issues raised in it.
 ##### If
     the hackerspace is meant to be a solution to those problems
 ##### then
     we must identify how it addresses them.
-    
+#### Conclusion: We must list the problems and specifically identify how the hackerspace addresses them.    
 ##### If
     the problems facing Lafayette's creative people requires a cultural shift
 ##### then
-    the hackerspace must require a cultural shift.
+    the hackerspace must grow a culture that can lead to a cultural shift.
 
 ##### If 
     a hackerspace lives/dies based on its people and their interactions
@@ -61,28 +61,41 @@ The purpose of the hackerspace is to be the catalyst to solving many issues that
 ##### then
     we have to identify who is a good cultural fit.
     
+##### If
+    we have to identify who is a good cultural fit
+##### then
+    we have to define a culture for them to fit in to.
+
+#### Conclusion: We must define the culture of the hackerspace before we can properly choose the first members.
+
 ##### If 
     solutions are more likely to sufficiently solve problems when designed,
         rather than allowing them to unintentionally emerge
 ##### then 
-    we should design solutions when sufficiency is needed.
-
+    we should design solutions when sufficiency is needed, 
+        rather than letting them emerge.
     
 ##### If 
-    the hackerspace is meant to grow a culture to provide the cultural shift 
-        needed to address issues facing the creative people of Lafayette
+    the chance of successfully solving hard problems increases by minimizing the number 
+        of difficult things to address that are related to those problems
 ##### and if
-If: it's better to solve problems intentionally than by accident
-             and
-If: it's easier to define a culture than to change an existing one
-             and
-If: culture can either be designed or it can emerge naturally
-             and
-If: culture begins emerging as soon as people interact
-             and
-If: culture shift and hackerspaces are both hard problems
-             and
-If: the chance of successfully solving hard problems increases by minimizing the number of difficult things to address that are related to those problems
+    starting a hackerspace and 
+    solving the problems facing the creative people of Lafayette
+        are hard problems
+##### Then
+    we should reduce the number of difficult things 
+       along the path to solving both
 
-Then: To maximize success and to ease the efforts of an already monumental task, we must define the culture that will address the issues facing Lafayette's creative people and we must do it before we can properly determine who should seed the hackerspace.
+##### If 
+    it's easier to define and direct a culture than to change an existing one
+##### and if 
+    a designed solution to the problems facing Lafayette's creative people 
+       requires a new culture
+##### and if
+    we should reduce the number of difficult things 
+       along the path to solving both
+##### then
+    we need to sufficiently design the culture, rather than allow it to emerge.
+    
 
+#### Conclusion: To start a hackerspace that won't culturally implode while addressing the issues facing Lafayette's creative people, we must define its culture. To maximize chance of success and to ease the efforts of an already difficult task, we must define the culture before we can properly determine who should seed the hackerspace.
