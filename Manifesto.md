@@ -1,4 +1,4 @@
-### Results of parsing sticky notes with Mary Zorn
+## Results of parsing sticky notes with Mary Zorn
 
 #### These are numbered because that's how Mary needed to write them. The order isn't set in stone. Neither is the wording. Neither is any other aspect of any of this.
 
@@ -14,9 +14,32 @@
 10. An organization that is socially conscious and environmentally aware.
 11. Our values come first.
 
-#### 
+### Sticky notes not yet addressed by the items above
 
-### Sticky notes from the CES discussion panel video
+##### Community Outreach
+- is disconnected
+
+##### Agency
+- is complacent
+
+##### Collective Voice
+- is disconnected at the individual level
+- has no collective voice
+- thinks on an individual level
+- is highly competitive
+
+##### Community Building
+A special note about these (and likely other stickies/qualities that need to be identified): 
+
+They embody jaded people who may seem like they should be part of the initial/core community, but have a high risk of poisoning the well. These qualities are a good starting point for identifying criteria that disqualifies candidates via the selection process for new members during the early generations of the community. Once the community & its culture have reached a point where these issues can be naturally accounted for, we can use them as selection criteria for a small group of test subjects to determine whether or not we've reached the point that we can overcome the issues without the community being poisoned.
+- narrowly defines "creative fields"
+- recognizes too few creative fields
+- is disengaged
+- isn't education non-creatives how to appreciate creative work
+- isn't urging people to allow for work that's different/risky
+- views tech & art as separate
+
+## Sticky notes from the CES discussion panel video
 
 These are problems facing the creative community of Lafayette as identified from the discussion panel in this video: https://www.youtube.com/watch?v=J45z8aMwl-U
 
