@@ -1,3 +1,18 @@
+# Manifesto 
+#### (and all the bits that contributed to its development)
+< insert manifesto here >
+
+## Inspiration behind LFTUM
+In 2011, I (Crawford Comeaux, self-appointed Benevolent Dictator For Life of LFTUM) worked at FiberCorps, a now-defunct non-profit whose long-term sustainability required Lafayette to develop a startup culture, ie. something similar to our own version of Silicon Valley. In order to help develop the vision for FiberCorps, he researched what a city needed in order to evolve a startup culture. That led to a list of requirements that an [innovation ecosystem](http://en.wikipedia.org/wiki/Innovation_system "Wikipedia entry for 'innovation system'") needed for that to happen, which Crawford split into things Lafayette has and things it doesn't.
+
+Some time after that research was completed, an event was held at the [LITE Center](http://www.lite3d.com "LITE Center's website") called the [Creative Economy Summit](https://www.facebook.com/events/272940536060680/ "Facebook event page for the Creative Economy Summit") on November 11, 2011 and was primarily attended by people involved in art, film, music, and theater. The event closed with a discussion panel that identified the needs/challenges facing the creative community, though a lot of the discussion was focused on the more artistic subset of the community while acknowledging that the scope of who was considered part of the creative community needed expanding. It was through this discussion that my mind was blown.
+
+While taking notes during the event in the same notepad as my research on innovation ecosystems, I realized that the things Lafayette needed to progress in terms of tech/innovation were ide
+
+## Vision
+
+## Mission
+
 ## Results of parsing sticky notes with Mary Zorn
 
 #### These are numbered because that's how Mary needed to write them. The order isn't set in stone. Neither is the wording. Neither is any other aspect of any of this.
