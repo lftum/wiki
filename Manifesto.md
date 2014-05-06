@@ -3,11 +3,28 @@
 < insert manifesto here >
 
 ## Inspiration behind LFTUM
-In 2011, I (Crawford Comeaux, self-appointed Benevolent Dictator For Life of LFTUM) worked at FiberCorps, a now-defunct non-profit whose long-term sustainability required Lafayette to develop a startup culture, ie. something similar to our own version of Silicon Valley. In order to help develop the vision for FiberCorps, he researched what a city needed in order to evolve a startup culture. That led to a list of requirements that an [innovation ecosystem](http://en.wikipedia.org/wiki/Innovation_system "Wikipedia entry for 'innovation system'") needed for that to happen, which Crawford split into things Lafayette has and things it doesn't.
+
+### The Beginning
+In 2011, I (Crawford Comeaux, self-appointed Benevolent Dictator For Life of LFTUM) worked at FiberCorps, a now-defunct non-profit whose long-term sustainability required Lafayette to develop a startup culture, ie. something similar to our own version of Silicon Valley. In order to help develop the vision for FiberCorps, he researched what a city needed in order to evolve a startup culture. That led to a list of requirements that an [innovation ecosystem](http://en.wikipedia.org/wiki/Innovation_system "Wikipedia entry for 'innovation system'") needed for that to happen, which I split into things Lafayette has and things it doesn't.
 
 Some time after that research was completed, an event was held at the [LITE Center](http://www.lite3d.com "LITE Center's website") called the [Creative Economy Summit](https://www.facebook.com/events/272940536060680/ "Facebook event page for the Creative Economy Summit") on November 11, 2011 and was primarily attended by people involved in art, film, music, and theater. The event closed with a discussion panel that identified the needs/challenges facing the creative community, though a lot of the discussion was focused on the more artistic subset of the community while acknowledging that the scope of who was considered part of the creative community needed expanding. It was through this discussion that my mind was blown.
 
-While taking notes during the event in the same notepad as my research on innovation ecosystems, I realized that the things Lafayette needed to progress in terms of tech/innovation were ide
+During the discussion panel, instead of taking notes, I wound up simply checking off items in my list of things Lafayette needs before it can evolve a startup culture. By the end of the discussion, I'd checked off every item and didn't need to add any others. 
+
+Mind. Blown.
+
+The needs of the artistic community were exactly the same as the city's tech/innovation needs. 
+
+Everyone has a similar reaction when I tell this story: "Oh yeah! Because creativity!" 
+
+This led to a couple new revelations:
+
+1. We can meet the needs of both groups by crafting solutions that don't exclude one or the other.
+2. In a conservative area such as Lafayette, where the message of "fund the arts" is an uphill battle, tech & arts sectors should come together to identify their collective needs and rally around the message of "fund the innovation systems."
+
+### Two Years Later
+
+
 
 ## Vision
 
