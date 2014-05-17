@@ -61,15 +61,15 @@ This led to a couple new revelations:
 - is highly competitive
 
 ##### Community Building
-A special note about these (and likely other stickies/qualities that need to be identified): 
+A special note about these (and likely other stickies/qualities that may already be addressed above in the numbered list made with Mary): 
 
 They embody jaded people who may seem like they should be part of the initial/core community, but have a high risk of poisoning the well. These qualities are a good starting point for identifying criteria that disqualifies candidates via the selection process for new members during the early generations of the community. Once the community & its culture have reached a point where these issues can be naturally accounted for, we can use them as selection criteria for a small group of test subjects to determine whether or not we've reached the point that we can overcome the issues without the community being poisoned.
 - narrowly defines "creative fields"
 - recognizes too few creative fields
 - is disengaged
-- isn't education non-creatives how to appreciate creative work
+- isn't educating non-creatives how to appreciate creative work
 - isn't urging people to allow for work that's different/risky
-- views tech & art as separate
+- views tech & art as separate, as opposed to them as members of the creativity superset
 
 ## Sticky notes from the CES discussion panel video
 
