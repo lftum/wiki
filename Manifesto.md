@@ -3,10 +3,12 @@
 < insert manifesto here >
 
 I don't know how this manifesto will look, but complacency will be antithetical to it. 
-
-Want something changed? Change it. 
-
-## &#9835; Want to change the wiki, there's nothing to it &#9835;
+```
+If you want to view manifesto
+Simply look around and view it
+Anything you want to, do it
+```
+## &#9835; Want to change the words, there's nothing to it &#9835;
 Edit on the left, live preview on the right.
 
 This wiki runs on Markdown, which is a super-simple markup language for formatting things like wiki pages. That's what all the hashes/pounds ('#') are. Actually, this wiki supports a couple of flavors of Markdown. 
