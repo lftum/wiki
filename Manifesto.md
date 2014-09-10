@@ -1,6 +1,36 @@
 # Manifesto 
-#### (and all the bits that contributed to its development)
+#### (and all the bits that contribute to its development)
 < insert manifesto here >
+
+I don't know how this manifesto will look, but complacency will be antithetical to it. 
+
+Want something changed? Change it. 
+
+## &#9835; Want to change the wiki, there's nothing to it &#9835;
+Edit on the left, live preview on the right.
+
+This wiki runs on Markdown, which is a super-simple markup language for formatting things like wiki pages. That's what all the hashes/pounds ('#') are. Actually, this wiki supports a couple of flavors of Markdown. 
+
+### Links to relevant guides: 
+- [The Original Markdown Guide - The Basics](http://daringfireball.net/projects/markdown/basics "Basics of Markdown")
+- [The Original Markdown Guide - Syntax](http://daringfireball.net/projects/markdown/syntax "Syntax of Markdown")
+- [Github-flavored Markdown](https://help.github.com/articles/github-flavored-markdown "Github's guide on Github-Flavored Markdown")
+
+Think these aren't clear enough? Get to googling, find better ones, and then use what you learn to add your own links to the list. Maybe add a note on how your links are an improvement on the previous guides or the type of people who may find yours more useful? We're all in this together, but that's meaningless if we aren't thoughtfully contributing. 
+
+Speaking of being thoughtful, try to keep things accessible to screen reading software by giving your links a descriptive title. If you hover over a link with the mouse, you'll see the title. Here's the markdown from a passage down the page (I added the > at the beginning to turn the passage into a blockquote):
+```
+>Some time after that research was completed, an event was held at the 
+[LITE Center](http://www.lite3d.com "LITE Center's website") called the
+[Creative Economy Summit](https://www.facebook.com/events/272940536060680/ 
+"Facebook event page for the Creative Economy Summit") on November 11, 2011 
+and was primarily attended by people involved in art, film, music, and theater.
+```
+Here's what it produces: 
+
+>Some time after that research was completed, an event was held at the [LITE Center](http://www.lite3d.com "LITE Center's website") called the [Creative Economy Summit](https://www.facebook.com/events/272940536060680/ "Facebook event page for the Creative Economy Summit") on November 11, 2011 and was primarily attended by people involved in art, film, music, and theater.
+
+Click the ![floppy disk image](http://wiki.lftum.com/livepreview/images/save_24.png "Save icon") at the top when done. All edits are anonymous and will remain that way unless shit gets out of hand.
 
 ## Inspiration behind LFTUM
 
