@@ -7,7 +7,7 @@ I don't know how this manifesto will look, but complacency will be antithetical 
 < insert manifesto here >
 
 --
-## Editing notes...
+### Editing notes...
 
 ---
 >*If you want to view this with your eyes*
@@ -24,7 +24,7 @@ Edit on the left, live preview on the right.
 
 This wiki runs on Markdown, which is a super-simple markup language for formatting things like wiki pages. That's what all the hashes/pounds ('#') are. Actually, this wiki supports a couple of flavors of Markdown. 
 
-### Links to relevant guides: 
+##### Links to relevant guides: 
 - [The Original Markdown Guide - The Basics](http://daringfireball.net/projects/markdown/basics "Basics of Markdown")
 - [The Original Markdown Guide - Syntax](http://daringfireball.net/projects/markdown/syntax "Syntax of Markdown")
 - [Github-flavored Markdown](https://help.github.com/articles/github-flavored-markdown "Github's guide on Github-Flavored Markdown")
