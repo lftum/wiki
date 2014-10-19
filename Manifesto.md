@@ -83,7 +83,7 @@ This led to a couple new revelations:
 4. Seeking to create a transparent, living organization with open & honest channels of communication.
 5. Encourage personal and/or professional development; enable members to gain skills that positively improve their lives and chosen paths.
 6. Culture that encourages and facilitates experimentation and risk taking in order to instill self-confidence in members with respect to the value they already possess.
-7. An organization that collaborates internally and externally, by default.
+7. An organization that collaborates internally and externally, by default; all collaborations intentionally preserve the organization's core values.
 8. A safe place that's free from judgement -- regardless of age, religion, race, gender, orientation, economic status, profession, and experience level -- for the sake of allowing people to do what they need/want and for kumbaya bullshit.
 9. Instill values of deep learning/understanding and critical analysis.
 10. An organization that is socially conscious and environmentally aware.
